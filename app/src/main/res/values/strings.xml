@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Caiwen</string>
+    <!--name is a variable-->
+    <string name="my_name">Tay Chai Boon</string>
+    <!--Why we want to put all string in the string files?
+    Answers: For us to easy organise, For us easy to translate, For us easy to debug
+    -->
+    <string name="btn_txt_show">Show</string>
+    <string name="btn_txt_hide">Hide</string>
+</resources>
